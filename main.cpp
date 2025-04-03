@@ -232,7 +232,58 @@ int main()
     // *p2 = temp;
     // cout << "After swapping: a = " << a << ", b = " << b << endl;
 
-    
+// Check if given character is vowel or consonant
+    // char ch;
+    // cout << "Enter a character: ";
+    // cin >> ch;
+    // if (ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u' || ch=='A' || ch=='E' || ch=='I' || ch=='O' || ch=='U'){
+    //     cout << ch << " is a vowel";
+    // }
+    // else if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')){
+    //     cout << ch << " is a consonant";
+    // }
+    // else{
+    //     cout << "Invalid character";
+    // }
+// Check if given character is vowel or consonant using switch case statement
+        // char ch;
+        // cout << "Enter a character: ";
+        // cin >> ch;
+        // if ((ch>='a' && ch<='z') || (ch>='A' && ch<='Z')){
+        //     switch(ch){
+        //         case 'a':
+        //         case 'e':
+        //         case 'i':
+        //         case 'o':
+        //         case 'u':
+        //         case 'A':
+        //         case 'E':
+        //         case 'I':
+        //         case 'O':
+        //         case 'U':
+        //             cout<<"Vowel";
+        //         default:
+        //             cout<<"consonant";
+        //         }
+        //     }
+
+// Classify a triangle based on its sides
+    // int a,b,c;
+    // cout << "Enter the sides of the triangle: ";
+    // cin >> a >> b >> c;
+    // if (a == b && b == c){
+    //     cout << "Equilateral triangle";
+    // }
+    // else if (a == b || b == c || a == c){
+    //     cout << "Isosceles triangle";
+    // }
+    // else{
+    //     cout << "Scalene triangle";
+    // }
+
+//  
+
 
     return 0;
 }
+
